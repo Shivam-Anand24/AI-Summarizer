@@ -1,6 +1,7 @@
 # Summarize Articles with OpenAI GPT-4 App
 
-![image](https://github.com/Shivam-Anand24/Article-Summarizer-using-ChatGPT4-API/assets/97556177/c33be75a-2af2-45ca-b0c7-a777b3dca628)
+![image](https://github.com/Shivam-Anand24/Article-Summarizer-using-ChatGPT4-API/assets/97556177/242cf657-95e7-4fe1-a6d8-5d925631a216)
+
 
 
 Welcome to the **Summarize Articles with OpenAI GPT-4** app! This application utilizes the power of OpenAI's GPT-4 language model to generate concise summaries of articles from the web. With just a simple link to an article, users can obtain a one-paragraph long summary, making it easy to grasp the main ideas without reading the entire content.
