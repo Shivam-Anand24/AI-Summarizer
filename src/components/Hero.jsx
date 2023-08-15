@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Shivam-Anand24/AI-Summarizer", "_blank")
+            window.open("https://github.com/Shivam-Anand24/Article-Summarizer-using-ChatGPT4-API", "_blank")
           }
           className='black_btn'
         >
