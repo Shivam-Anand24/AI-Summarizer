@@ -24,46 +24,6 @@ Welcome to the **Summarize Articles with OpenAI GPT-4** app! This application ut
 4. The app will send the article's URL to the OpenAI GPT-4 API via RapidAPI and retrieve a one-paragraph summary.
 5. The generated summary will be displayed on the screen, allowing you to quickly grasp the main points of the article.
 
-## Installation and Development
-
-To set up the development environment and run the app locally, follow these steps:
-
-1. Clone this GitHub repository:
-
-   ```bash
-   git clone https://github.com/your-username/summarize-articles-gpt4.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd summarize-articles-gpt4
-   ```
-
-3. Install the dependencies using npm or yarn:
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-4. Create a `.env` file in the project root and add your RapidAPI key:
-
-   ```env
-   VITE_RAPIDAPI_KEY=your_rapidapi_key_here
-   ```
-
-5. Start the development server:
-
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-6. Open your browser and visit `http://localhost:3000` to interact with the app in your local environment.
-
 ## Credits
 
 - Built by [Your Name]
