@@ -20,7 +20,7 @@ Welcome to the **Summarize Articles with OpenAI GPT-4** app! This application ut
 
 1. Visit the deployed app at [https://majestic-puppy-250aa0.netlify.app/](https://majestic-puppy-250aa0.netlify.app/).
 2. On the app's homepage, you'll find a text input field where you can paste the URL of the article you want to summarize.
-3. After pasting the URL, click the "Summarize" button.
+3. After pasting the URL, click the Enter" button.
 4. The app will send the article's URL to the OpenAI GPT-4 API via RapidAPI and retrieve a one-paragraph summary.
 5. The generated summary will be displayed on the screen, allowing you to quickly grasp the main points of the article.
 
