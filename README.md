@@ -26,7 +26,6 @@ Welcome to the **Summarize Articles with OpenAI GPT-4** app! This application ut
 
 ## Credits
 
-- Built by [Your Name]
 - OpenAI GPT-4 API integration using [RapidAPI](https://rapidapi.com/)
 - UI design with [Tailwind CSS](https://tailwindcss.com/)
 - Developed with [Vite](https://vitejs.dev/)
